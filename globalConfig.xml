@@ -1,0 +1,11 @@
+﻿<setting>
+	<db-conn>
+		<ServerName>10.250.0.21</ServerName>
+		<DataBaseName>dbo.SGE</DataBaseName>
+		<UserName>sa</UserName>		
+		<Password>#######</Password>		
+	</db-conn>
+	<script>
+		<path>E:\PROJETOS\Bodytech\03.Scripts\00.Script_ControleManutencao\12.2016919_ManutencaoPreventiva2</path>
+	</script>
+<setting>
